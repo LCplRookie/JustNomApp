@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\JustNom\JustNom\bin\Debug\net6.0\JustNom.exe
+C:\Users\User\source\repos\JustNom\JustNom\bin\Debug\net6.0\JustNom.deps.json
+C:\Users\User\source\repos\JustNom\JustNom\bin\Debug\net6.0\JustNom.runtimeconfig.json
+C:\Users\User\source\repos\JustNom\JustNom\bin\Debug\net6.0\JustNom.dll
+C:\Users\User\source\repos\JustNom\JustNom\bin\Debug\net6.0\JustNom.pdb
+C:\Users\User\source\repos\JustNom\JustNom\obj\Debug\net6.0\JustNom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JustNom\JustNom\obj\Debug\net6.0\JustNom.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JustNom\JustNom\obj\Debug\net6.0\JustNom.AssemblyInfo.cs
+C:\Users\User\source\repos\JustNom\JustNom\obj\Debug\net6.0\JustNom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JustNom\JustNom\obj\Debug\net6.0\JustNom.dll
+C:\Users\User\source\repos\JustNom\JustNom\obj\Debug\net6.0\refint\JustNom.dll
+C:\Users\User\source\repos\JustNom\JustNom\obj\Debug\net6.0\JustNom.pdb
+C:\Users\User\source\repos\JustNom\JustNom\obj\Debug\net6.0\JustNom.genruntimeconfig.cache
+C:\Users\User\source\repos\JustNom\JustNom\obj\Debug\net6.0\ref\JustNom.dll

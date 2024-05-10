@@ -1,0 +1,13 @@
+Name:Supreme Burgers
+Toppings:[<cheese,80>,<pepperoni,120>,<tomato sauce,40>,<ham,150>,<mushroom,80>,<salami,90>,<sweetcorn,45>,<pineapple,50>,<olives,60>,<chicken,110>]
+Garnishes:[<cheese,100>,<fried onions,80>,<bacon,150>,<salad,70>,<extra patty,150>,<cucumber,30>,<pickles,40>,<jalapenos,60>,<bbq sauce,50>,<mayonnaise,30>]
+Pizza:<Name:Margherita, Toppings:[tomato sauce, cheese],Price:500>
+Pizza:<Name:Ham and Mushroom, Toppings:[tomato sauce, ham, mushroom, cheese],Price:650>
+Pizza:<Name:Hawaiian, Toppings:[tomato sauce, cheese, ham, pineapple],Price:700>
+Pizza:<Name:Chicken Supreme, Toppings:[tomato sauce, cheese, chicken, olives],Price:750>
+Pizza:<Name:Create Your Own, Toppings:[],Price:400>
+Burger:<Name:Create Your Own, Garnishes:[],Price:350>
+Burger:<Name:Cheese Burger, Garnishes:[cheese],Price:450>
+Burger:<Name:Supreme Burger, Garnishes:[fried onions, extra patty, cheese],Price:600>
+Burger:<Name:BBQ Bacon, Garnishes:[bacon, bbq sauce, cheese],Price:550>
+Burger:<Name:Spicy Jalapeno, Garnishes:[jalapenos, cheese, mayonnaise],Price:500>";
