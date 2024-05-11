@@ -1,0 +1,6 @@
+====================
+10.05.2024 14:15:47: Order for Test
+Pizza: Create Your Own, Extra Toppings: chicken, olives, sweetcorn, Price: £6,15
+Delivery Charge: £2,00
+Total: £8,15
+====================
